@@ -86,6 +86,3 @@ A chave da API (`X-Api-Key`) é configurada diretamente na tela de **Exercícios
 - `app/about.tsx` → **Sobre**
 
 Todas usando **StyleSheet** do React Native.
-
-Passos:
-
